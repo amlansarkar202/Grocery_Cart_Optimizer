@@ -59,4 +59,7 @@ This is a simplified version of the **0/1 Knapsack problem**, implemented using 
 ---
 
 ## 📁 Project Structure
+  |___main.cpp
+  |___cart.txt
+  |___README.md
 
