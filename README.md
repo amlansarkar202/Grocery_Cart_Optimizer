@@ -1,4 +1,4 @@
-# 🛒 Grocery Cart Optimizer (C++) – Internship Project
+# 🛒 Grocery Cart Optimizer (C++)
 
 A **console-based C++ application** that allows users to manage a grocery shopping cart efficiently.  
 Built using **core data structures (DSA)** like `vector`, `unordered_map`, `sort`, and **greedy optimization**, it simulates real-life cart planning with budget constraints.
