@@ -1,0 +1,11 @@
+Milk Dairy 45 2 1
+Bread Bakery 30.5 1 2
+Rice Grains 60 5 1
+Eggs Protein 6 12 1
+Chocolate Snacks 50 1 3
+Soap Toiletries 25 2 2
+Shampoo Toiletries 120 1 2
+Apples Fruits 35 4 1
+Mangoes Fruits 150 1 1
+Juice Beverages 70 1 2
+Biscuits Snacks 45 3 2
